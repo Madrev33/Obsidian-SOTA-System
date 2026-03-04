@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d47627e38a344270",
+        "id": "d626fdc919e21b64",
         "type": "tabs",
         "children": [
           {
-            "id": "235fd87696045c69",
+            "id": "212fc2da737fba51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/00. O Pq do S.O.T.A.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00. O Pq do S.O.T.A"
+              "title": "New tab"
             }
           }
         ]
@@ -114,13 +110,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/00. O Pq do S.O.T.A.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00. O Pq do S.O.T.A"
+              "title": "Outline"
             }
           },
           {
@@ -274,15 +269,15 @@
       "sota-pomodoro:Toggle timer panel": false
     }
   },
-  "active": "a63c406f70c6179d",
+  "active": "212fc2da737fba51",
   "lastOpenFiles": [
-    "LICENSE",
     "README.md",
+    "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/00. O Pq do S.O.T.A.md",
+    "LICENSE",
     "03 - Conhecimento/03 - Codex/3. Habilidades Técnicas/01. Inteligência Artificial/desktop.ini",
     "03 - Conhecimento/03 - Codex/3. Habilidades Técnicas/desktop.ini",
     "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/desktop.ini",
     "99 - BACKEND/Guias & Docs/Guia Local Sync/Sincronização Local e Privada (Obsidian & Syncthing).md",
-    "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/00. O Pq do S.O.T.A.md",
     "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/Te amo Nathalie S2.md",
     "99 - BACKEND/Imagens & Videos/Te amo Nathalie S2-1769979658917.webp",
     "99 - BACKEND/Guias & Docs/Guia Local Sync/~syncthing~Instalação Local Sync.md.tmp",
@@ -321,7 +316,6 @@
     "99 - BACKEND/Guias & Docs/Others",
     "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados",
     "03 - Conhecimento/01 - Mídias/01. Para Consumir/Séries/Breaking Bad/Docs - Análises Pessoais/Ciclo_01",
-    "03 - Conhecimento/01 - Mídias/01. Para Consumir/Séries/Breaking Bad/Docs - Análises Pessoais",
     "00 - Dashboard/Untitled.canvas",
     "00 - Central de Projetos/Untitled.canvas"
   ]
