@@ -66,7 +66,7 @@ O sistema baseia-se fortemente nas bibliotecas comunitárias do Obsidian. Se vai
 
 ---
 
-## ⚡ Junte-se à Revolução
+## ⚡ Junte-se a Comunidade
 Se você quer dominar o sistema, entender a filosofia por trás do **Protocolo Lazarus** e se conectar com outros arquitetos de vida:
 - **Canal YouTube:** [Lazarus Protocol](https://www.youtube.com/@LazarusProto) 
 - **Comunidade Telegram:** [Lazarus Protocol](https://t.me/lazarusproto/1)
