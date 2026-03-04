@@ -1,0 +1,2 @@
+#filme_categoria Animação
+#serie_categoria Animação

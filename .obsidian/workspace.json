@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "6ae7ebfa9d210845",
+    "type": "split",
+    "children": [
+      {
+        "id": "d47627e38a344270",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235fd87696045c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/00. O Pq do S.O.T.A.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. O Pq do S.O.T.A"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e04899a81a3367cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8df9af6c56658d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56eccd0f1ef8bcdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fc9bd23b98833e24",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "fe850580939f807f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f67ab2e02645742b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "3085f4c1deb97ecb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288
+  },
+  "right": {
+    "id": "63bb7b33e207a151",
+    "type": "split",
+    "children": [
+      {
+        "id": "538c69d6c3546cdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c6dc3f36a021704",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/00. O Pq do S.O.T.A.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00. O Pq do S.O.T.A"
+            }
+          },
+          {
+            "id": "a63c406f70c6179d",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "51a630ad2cc77644",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2abf54b8f59f6fbb",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "01 - Registros/01. Daily/2026/01/2026-01-22.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "4a6b363b8431d443",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - Corpo & Movimento/01 - Exercícios Físicos/03. Sessões de Treino/2026/01/2026-01-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-01-20"
+            }
+          },
+          {
+            "id": "bc03728b11997f02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Registros/01. Daily/2026/01/2026-01-22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-01-22"
+            }
+          },
+          {
+            "id": "a62264111d8b9e5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b271d3747b88e86f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "99 - BACKEND/Guias & Docs/Guia Local Sync/Sincronização Local e Privada (Obsidian & Syncthing).md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Sincronização Local e Privada (Obsidian & Syncthing)"
+            }
+          },
+          {
+            "id": "a704feb2b91531a0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "a89b7fb8ed220f40",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
+            }
+          },
+          {
+            "id": "38ecfc9513dfbbb4",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "sota-pomodoro:Toggle timer panel": false
+    }
+  },
+  "active": "a63c406f70c6179d",
+  "lastOpenFiles": [
+    "LICENSE",
+    "README.md",
+    "03 - Conhecimento/03 - Codex/3. Habilidades Técnicas/01. Inteligência Artificial/desktop.ini",
+    "03 - Conhecimento/03 - Codex/3. Habilidades Técnicas/desktop.ini",
+    "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/desktop.ini",
+    "99 - BACKEND/Guias & Docs/Guia Local Sync/Sincronização Local e Privada (Obsidian & Syncthing).md",
+    "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/00. O Pq do S.O.T.A.md",
+    "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/Te amo Nathalie S2.md",
+    "99 - BACKEND/Imagens & Videos/Te amo Nathalie S2-1769979658917.webp",
+    "99 - BACKEND/Guias & Docs/Guia Local Sync/~syncthing~Instalação Local Sync.md.tmp",
+    "99 - BACKEND/Imagens & Videos/Instalação Local Sync-1769545050817.webp",
+    "99 - BACKEND/Imagens & Videos/Instalação Local Sync-1769544938019.webp",
+    "99 - BACKEND/Imagens & Videos/Instalação Local Sync-1769544742142.webp",
+    "99 - BACKEND/Imagens & Videos/Instalação Local Sync-1769544604702.webp",
+    "99 - BACKEND/Imagens & Videos/Instalação Local Sync-1769543856893.webp",
+    "99 - BACKEND/Imagens & Videos/Instalação Local Sync-1769543770647.webp",
+    "99 - BACKEND/Imagens & Videos/Instalação Local Sync-1769543590578.webp",
+    "99 - BACKEND/Imagens & Videos/Instalação Local Sync-1769541769837.webp",
+    "99 - BACKEND/Imagens & Videos/Instalação Local Sync-1769541703467.webp",
+    "01 - Registros/01. Daily/2026/01/2026-01-27.md",
+    "01 - Registros/01. Daily/2026/01",
+    "01 - Registros/01. Daily/2026",
+    "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/03. Manual de Integridade e Manutenção.md",
+    "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados/01. Manual de Operação & Filosofia S.O.T.A.md",
+    "00 - Dashboard/00 - Perfil & Stats.md",
+    "05 - Nutrição & Bioquímica/00. Dashboard Nutricional.md",
+    "06 - Sono & Inconsciente/00. Dashboard do Sono.md",
+    "10 - Finanças/00. Dashboard Finanças.md",
+    "09 - Viagens/00. Dashboard Viagem.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Tríceps/Tríceps Testa com Barra W.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Tríceps/Tríceps Corda na Polia.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Tríceps/Mergulho no Banco.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Quadríceps/Cadeira Extensora.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Quadríceps/Agachamento Livre.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Pernas/Subida na Cadeira.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Pernas/Leg Press 45.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Pernas/Afundo.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Peito/Supino Vertical Máquina.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Peito/Supino Reto com Barra.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Peito/Flexão de Braços.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Panturrilhas/Panturrilha no Leg Press.md",
+    "04 - Corpo & Movimento/01 - Exercícios Físicos/01. Manual/Exercícios/Ombros/Desenvolvimento com Halteres.md",
+    "99 - BACKEND/Guias & Docs/Others",
+    "99 - BACKEND/Guias & Docs/00. Avisos & Cuidados",
+    "03 - Conhecimento/01 - Mídias/01. Para Consumir/Séries/Breaking Bad/Docs - Análises Pessoais/Ciclo_01",
+    "03 - Conhecimento/01 - Mídias/01. Para Consumir/Séries/Breaking Bad/Docs - Análises Pessoais",
+    "00 - Dashboard/Untitled.canvas",
+    "00 - Central de Projetos/Untitled.canvas"
+  ]
+}

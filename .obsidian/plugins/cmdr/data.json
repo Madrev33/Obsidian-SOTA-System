@@ -1,0 +1,86 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "quickadd:choice:b47504e6-da11-486a-b5f8-343f1bbc9309",
+      "icon": "lucide-arrow-big-up-dash",
+      "name": "QuickAdd: Processar Task",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "quickadd:choice:1189559a-4d83-4397-9ec4-1663eb6da282",
+      "icon": "award",
+      "name": "Criar Recompensa",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:d02108f4-7456-459b-a11c-49d85d25237c",
+      "icon": "lucide-apple",
+      "name": "Registrar Alimentação",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:59ce94f0-ea16-4fd6-87e0-9d68df7e32a1",
+      "icon": "lucide-alert-triangle",
+      "name": "Distração",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:177427b2-601d-4df8-a896-aa56b5683bc5",
+      "icon": "lucide-align-justify",
+      "name": "Criar Anotação",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:dc58178e-b80c-4c90-8212-a9c4f4c95b16",
+      "icon": "lucide-annoyed",
+      "name": "Registrar Emoção",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:d27e66da-6abe-431e-9e50-15665894928f",
+      "icon": "lucide-antenna",
+      "name": "Insight Universal",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:ab0773b5-9f8c-4bff-b15f-f2a832fbc3f9",
+      "icon": "lucide-airplay",
+      "name": "Criar Midia",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "omnisearch:show-modal",
+      "icon": "lucide-scan-search",
+      "name": "Omnisearch: Vault search",
+      "mode": "f07c32c108cba07d"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

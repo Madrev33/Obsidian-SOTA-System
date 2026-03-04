@@ -1,0 +1,1 @@
+#artigo_categoria Thread (X_Twitter)

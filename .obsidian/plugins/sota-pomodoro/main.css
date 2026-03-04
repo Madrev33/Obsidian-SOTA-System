@@ -1,0 +1,116 @@
+/* src/styles.css */
+.theme-light,
+.theme-dark {
+  --pomodoro-timer-elapsed-color: var(--color-green);
+  --pomodoro-timer-color: var(--text-faint);
+  --pomodoro-timer-text-color: var(--text-normal);
+  --pomodoro-timer-dot-color: var(--color-red);
+}
+.status-bar-item.plugin-pomodoro-timer {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.pomodoro-tasks-item {
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.pomodoro-tasks-item:hover {
+  background-color: var(--background-modifier-hover);
+}
+.pomodoro-tasks-item.is-active {
+  background-color: var(--background-secondary);
+  border-left: 3px solid var(--interactive-accent);
+  padding-left: calc(1rem - 3px);
+}
+.pomodoro-tasks-name {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex: 1;
+  overflow: hidden;
+  flex-direction: row;
+}
+.pomodoro-tasks-item-desc {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.pomodoro-tasks-item-desc p {
+  margin: 0;
+  padding: 0;
+}
+.pomodoro-tasks-progress {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+.pomodoro-focus-task-content {
+  padding: 0.5rem 0.8rem;
+  border-radius: var(--radius-m);
+  border: 1px solid var(--background-modifier-border);
+  background-color: var(--background-secondary);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.pomodoro-task-counter {
+  background-color: var(--background-modifier-hover);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.75em;
+  white-space: nowrap;
+}
+.pomodoro-tasks-item-desc p {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+.sota-feedback-modal .sota-slider-value-display {
+  min-width: 2em;
+  text-align: right;
+  font-weight: bold;
+  color: var(--text-accent);
+}
+.pomodoro-timer-view .recompensa-item {
+  position: relative;
+  padding: 12px;
+  padding-right: 150px;
+  margin: 8px 0;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  min-height: 50px;
+  display: flex;
+  align-items: center;
+}
+.pomodoro-timer-view .recompensa-nome {
+  font-size: 0.9em;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.pomodoro-timer-view .recompensa-progresso-container {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.pomodoro-timer-view .recompensa-progresso-texto {
+  font-size: 0.8em;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+.pomodoro-timer-view .recompensa-item .sota-button {
+  padding: 6px 12px;
+  font-size: 0.8em;
+}

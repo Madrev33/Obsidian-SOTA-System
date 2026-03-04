@@ -1,0 +1,488 @@
+{
+  "hideStrictPathFilters": true,
+  "pinFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Dominando a Mente/Lazarus Protocol, Revive your Inner Genius/Lazarus Protocol.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Dominando a Mente/Lazarus Protocol, Revive your Inner Genius/Marketing Lazarus Protocol/Marketing Lazarus Protocol.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Cinema & Edição/Edit World/After Effects/After Effects.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Cinema & Edição/Edit World/Design/Design.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Citrus Amplify/For the video editors/For the video editors.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Cinema & Edição/Edit World/Terceirização/Contratação.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Cinema & Edição/Edit World/Edit World.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Comunidade/Comunidade.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Ideias de CRIAÇÕES (Conteúdos)/Materiais de estudo/Learn-Reverse engineering/SEO Toolbox- 100+ Tools For SEO, By ExogN/SEO Toolbox- 100+ Tools For SEO, By ExogN.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Ideias de CRIAÇÕES (Conteúdos)/Materiais de estudo/Learn-Reverse engineering/Learn-Reverse engineering.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Science Of Stream/Science Of Stream.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Marketing/Marketing.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Museum of Masterpieces/Adapta Page HUB/Adapta Page HUB.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/02 - Relatório de missão/Relatório de missão.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Alimentação/Alimentação.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Dominando a Mente/Como aprender QUALQUER COISA!/Como aprender QUALQUER COISA!.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Ideias de CRIAÇÕES (Conteúdos)/Ideias de CRIAÇÕES (Conteúdos).md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Script/Script.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Shorts Science/Shorts Science.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Thumb e Titles/Conhecimentos geral/Conhecimentos geral.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Thumb e Titles/Thumb e Titles.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Twitter/Twitter.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Nathalie, minha esposa/Impressionações/Nathalie, Não veja essa page!/Comunicação/Comunicação.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Nathalie, minha esposa/Impressionações/Nathalie, Não veja essa page!/Sexologia/Sexologia.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Nathalie, minha esposa/Impressionações/Nathalie, Não veja essa page!/Nathalie, Não veja essa page!.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Dominando a Mente/Dominando a Mente.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Dominando a Mente/Avisos page conhecimento.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Nathalie, minha esposa/Impressionações/Nathalie, Não veja essa page!/Sexologia/Hipnose - Sexo/Hipnose - Sexo.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Programming Ultimate/Madrev Programming/Madrev Programming.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Programming Ultimate/Madrev Programming/Materiais de Estudo/Java/Java.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Programming Ultimate/Madrev Programming/Materiais de Estudo/HTML/HTML.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Mundo/Bíblia/Bíblia.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Mundo/Mundo.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Programming Ultimate/AI Agents/AI Agents.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/Ultimate AI Exclusive Codex.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/Materiais AI Learnings/General AI Learnings.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Dominando a Mente/Psicologia/Psicologia.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Input de conhecimento/AI para Input de conhecimento.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Dominando a Mente/Reflexões.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Nathalie, minha esposa/Casa/Casa.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Cinema & Edição/Storytelling SKILL/Storytelling SKILL.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Marketing/Coleção de Marketing.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/Prompt Engineer/Prompt Engineer.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Nathalie, minha esposa/Impressionações/Nathalie, Não veja essa page!/Presentes Nathalie/Presentes Nathalie.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Programming Ultimate/AI Code (Links General).md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Programming Ultimate/The Bests LLMs for AI Coding (Atualizados).md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Programming Ultimate/Área de testes/Adentos, possíveis problemas.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Programming Ultimate/Code Workflow/Debug Mode/Debug Mode.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Programming Ultimate/Code Workflow/Genius Prompts/Tips and Tricks.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Ultimate AI Exclusive Codex/AI Cinematic/AI Cinematic.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Criação de conteúdo/Marketing/Branding/Branding.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/01 - Anotações/Anotações.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Input de conhecimento",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Estudos",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Madrev Codex.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01 - COMANDO/1.1 Missões/3. Ativos/Lazarus Protocol/Lazarus Protocol.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "03 - ARSENAL/Madrev Codex.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "03 - ARSENAL/3.1 Madrev Codex/5. Divisão de Narrativa & Influência/Science Of Digital Influence/Laboratory of creation.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01 - COMANDO/1.1 Missões/2. Em Planejamento/Viajante do Tempo/Branding & Marketing/Branding NÓIA Ideias.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "02 - Projetos/02. Ativos/S.O.T.A SYSTEM/Features - Ideias/Atualizações.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "02 - Projetos/02. Ativos/S.O.T.A SYSTEM/00. HUB",
+        "patternType": "STRICT"
+      }
+    ],
+    "frontMatter": [
+      {
+        "name": "",
+        "active": true,
+        "path": "",
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ]
+  },
+  "hideFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Madrev Obsidian/Madrev Codex/Laboratory of Learning/Nathalie, minha esposa/Impressionações/AVISOS!.md",
+        "patternType": "STRICT"
+      }
+    ],
+    "frontMatter": [
+      {
+        "name": "",
+        "active": true,
+        "path": "",
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ]
+  }
+}

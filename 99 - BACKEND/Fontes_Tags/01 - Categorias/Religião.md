@@ -1,0 +1,3 @@
+#artigo_categoria Religião
+#livro_categoria Religião
+#documentario_categoria Religião

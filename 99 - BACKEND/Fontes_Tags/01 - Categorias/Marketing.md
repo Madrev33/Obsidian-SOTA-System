@@ -1,0 +1,3 @@
+#artigo_categoria Marketing
+#livro_categoria Marketing
+#video_categoria Marketing

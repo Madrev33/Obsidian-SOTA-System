@@ -1,0 +1,3 @@
+#filme_plataforma Netflix
+#serie_plataforma Netflix
+#documentario_plataforma Netflix

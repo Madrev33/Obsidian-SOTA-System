@@ -1,0 +1,11 @@
+{
+	"id": "sota-pomodoro",
+	"name": "S.O.T.A Pomodoro",
+	"version": "2.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Motor de tempo e execução do sistema S.O.T.A",
+	"author": "Madrev",
+	"fundingUrl": "https://sotasystem.netlify.app/",
+	"authorUrl": "https://www.instagram.com/madrev_33/",
+	"isDesktopOnly": false
+}

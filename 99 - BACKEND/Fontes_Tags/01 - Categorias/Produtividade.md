@@ -1,0 +1,3 @@
+#artigo_categoria Produtividade
+#livro_categoria Produtividade
+#video_categoria Produtividade

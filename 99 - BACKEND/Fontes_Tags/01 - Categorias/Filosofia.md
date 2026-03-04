@@ -1,0 +1,3 @@
+#artigo_categoria Filosofia
+#livro_categoria Filosofia
+#documentario_categoria Filosofia

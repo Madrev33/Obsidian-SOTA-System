@@ -1,0 +1,4 @@
+#artigo_categoria Tecnologia
+#livro_categoria Tecnologia
+#video_categoria Tecnologia
+#curso_categoria Tecnologia

@@ -1,0 +1,14 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#5d9ef4",
+  "showRibbon": false,
+  "cssTheme": "Encore",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "custom-callouts"
+  ],
+  "showViewHeader": true
+}

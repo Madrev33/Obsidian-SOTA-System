@@ -1,0 +1,2715 @@
+{
+  "choices": [
+    {
+      "id": "59ce94f0-ea16-4fd6-87e0-9d68df7e32a1",
+      "name": "Distração",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "5001292a-0957-4dbf-abc2-42954183b4f5",
+        "name": "Distração",
+        "commands": [
+          {
+            "name": "logDistracaoScript",
+            "type": "UserScript",
+            "id": "f2bac8c0-4545-48a1-a17d-1b87852f268b",
+            "path": "99 - BACKEND/Scripts/Eventos/logDistracaoScript.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "fad0ceef-b31a-4523-8eb1-7a17ddb13f26",
+      "name": "Fazer Depois",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "dfe13dd3-76c4-441a-9afe-a8a193c07150",
+        "name": "Fazer Depois",
+        "commands": [
+          {
+            "name": "logFazerDepois",
+            "type": "UserScript",
+            "id": "b686f52e-32d1-4a6a-abb1-fc096a8f2370",
+            "path": "99 - BACKEND/Scripts/Eventos/logFazerDepois.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "1ae6d22f-879e-4200-a1a3-bfdc9d4c2172",
+      "name": "Criar Livro",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Livro",
+        "id": "416b5426-40e2-469d-be63-1cefff8024fd",
+        "commands": [
+          {
+            "name": "criarLivro",
+            "type": "UserScript",
+            "id": "78ef623e-51cc-4729-89f6-a9e4a6a52f4b",
+            "path": "99 - BACKEND/Scripts/Mídias/Livro/criarLivro.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "d27e66da-6abe-431e-9e50-15665894928f",
+      "name": "Insight Universal",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Insight Universal",
+        "id": "4fb68fbc-8283-4e2b-9786-a69fdd7b6f45",
+        "commands": [
+          {
+            "name": "registrarInsightUniversal",
+            "type": "UserScript",
+            "id": "40f4adde-a71a-4eec-bef8-b6a97b165846",
+            "path": "99 - BACKEND/Scripts/Eventos/registrarInsightUniversal.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "e494f51e-0b6a-4997-b835-5b0e079bfea3",
+      "name": "GerarRelatorioIA",
+      "type": "Macro",
+      "command": false,
+      "macro": {
+        "id": "4207c520-17bf-4879-a6d6-f90cc532306e",
+        "name": "GerarRelatorioIA",
+        "commands": [
+          {
+            "name": "gerarRelatorioIA",
+            "type": "UserScript",
+            "id": "026f9e07-0348-47a6-b56f-c027543b3d32",
+            "path": "99 - BACKEND/Scripts/AI/gerarRelatorioIA.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "e56e9f61-9a6f-4e61-8ec5-f8b1db1cbde9",
+      "name": "GerarDossieHQ",
+      "type": "Macro",
+      "command": false,
+      "macro": {
+        "id": "f6107fca-df96-4045-bb57-df242ac8ccb1",
+        "name": "GerarDossieHQ",
+        "commands": [
+          {
+            "name": "gerarDossieHQ",
+            "type": "UserScript",
+            "id": "e4e4c1eb-7ca6-463a-9590-daed6df63e8e",
+            "path": "99 - BACKEND/Scripts/AI/gerarDossieHQ.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "ab0773b5-9f8c-4bff-b15f-f2a832fbc3f9",
+      "name": "Criar Midia Hub",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "f7e8ff5b-a59b-499b-835a-3b8c8a8e1e16",
+        "name": "Criar Midia Hub",
+        "commands": [
+          {
+            "name": "criarMidia",
+            "type": "UserScript",
+            "id": "edd1b203-ac60-417f-bb93-350c8384c6ea",
+            "path": "99 - BACKEND/Scripts/Mídias/criarMidia.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "f9355a0f-28c8-42ca-acc2-26feff352f7d",
+      "name": "Criar Novo Estudo",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "9004ce1a-4655-4396-a392-726f0cd73fae",
+        "name": "Criar Novo Estudo",
+        "commands": [
+          {
+            "name": "criarEstudo",
+            "type": "UserScript",
+            "id": "d9c6d5d6-5fcb-49fa-9934-5186d7ae2655",
+            "path": "99 - BACKEND/Scripts/Estudo/criarEstudo.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "107687fb-b388-4678-9d12-0f169c1ca495",
+      "name": "Criar Novo Curso",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Novo Curso",
+        "id": "9431ec69-6385-47d9-8e61-e891c400db52",
+        "commands": [
+          {
+            "name": "criarCurso",
+            "type": "UserScript",
+            "id": "e7e09fc4-3a4a-4a4b-882b-980c51dffa55",
+            "path": "99 - BACKEND/Scripts/Mídias/Curso/criarCurso.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "0551a692-9563-43af-9a24-48d1c14755b8",
+      "name": "Criar Nota de Vídeo",
+      "type": "Macro",
+      "command": false,
+      "macro": {
+        "id": "23dc94e7-75f4-40d6-98f9-931e33237a20",
+        "name": "Criar Nota de Vídeo",
+        "commands": [
+          {
+            "name": "criarVideo",
+            "type": "UserScript",
+            "id": "e8859ad7-5e5f-42f5-b070-14c980e0f576",
+            "path": "99 - BACKEND/Scripts/Mídias/Video/criarVideo.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "56b36a5a-eb7b-4bf9-80b8-10690d6cf7bf",
+      "name": "Criar Nota de Série",
+      "type": "Macro",
+      "command": false,
+      "macro": {
+        "id": "d59c4952-401c-4b6e-933d-9a3d10a8ae6c",
+        "name": "Criar Nota de Série",
+        "commands": [
+          {
+            "name": "criarSerie",
+            "type": "UserScript",
+            "id": "5c7ce880-7b9b-43ad-8669-d9324bf83420",
+            "path": "99 - BACKEND/Scripts/Mídias/Serie/criarSerie.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "4bd835a9-14fc-4d1f-8d2c-3669484d3bbc",
+      "name": "Criar Nota de Filme",
+      "type": "Macro",
+      "command": false,
+      "macro": {
+        "id": "887a2b44-20bb-4709-b58c-a8941e83a7f8",
+        "name": "Criar Nota de Filme",
+        "commands": [
+          {
+            "name": "criarFilme",
+            "type": "UserScript",
+            "id": "8544b7d3-46f5-4903-b89d-e5995d81049e",
+            "path": "99 - BACKEND/Scripts/Mídias/Filme/criarFilme.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "c9056395-0c8f-456b-b3bc-f5793c432d6a",
+      "name": "Gerar UID",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Gerar UID",
+        "id": "ea52a556-1168-4b6c-98ff-03692afc0ac9",
+        "commands": [
+          {
+            "name": "gerarUID",
+            "type": "UserScript",
+            "id": "a716a1dd-3220-4613-83d9-37714a274fa8",
+            "path": "99 - BACKEND/Scripts/Utils/gerarUID.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "5171cac8-8a71-4e8b-9148-c9d6a87fbe92",
+      "name": "Iniciar Novo Ciclo de Leitura",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo de Leitura",
+        "id": "efad49d7-6daf-42fd-96b1-136699a635c9",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloLeitura",
+            "type": "UserScript",
+            "id": "09336bcc-213f-4f96-8c37-9d5a4684480f",
+            "path": "99 - BACKEND/Scripts/Mídias/Livro/iniciarNovoCicloLeitura.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "5653e237-12f8-4aa9-845b-03384ca76918",
+      "name": "Iniciar Novo Ciclo (Curso)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo (Curso)",
+        "id": "54489e58-70fc-4713-8b6f-b77281e9b540",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloCurso",
+            "type": "UserScript",
+            "id": "2edaea3e-ae37-4b50-859f-b76b4ebde3bd",
+            "path": "99 - BACKEND/Scripts/Mídias/Curso/iniciarNovoCicloCurso.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "3ff8a8a4-98b2-4bed-b34d-2ccf243ee662",
+      "name": "Adicionar Aula ao Módulo (Curso)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Aula ao Módulo (Curso)",
+        "id": "fa903d76-20a0-4204-b98d-a9489294b957",
+        "commands": [
+          {
+            "name": "adicionarAulaCurso",
+            "type": "UserScript",
+            "id": "756f46c7-c1d6-4d57-b647-1f3b659bb53e",
+            "path": "99 - BACKEND/Scripts/Mídias/Curso/adicionarAulaCurso.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "5334a764-1e22-4305-a441-cae9fe72342d",
+      "name": "Adicionar Módulo ao Curso",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Módulo ao Curso",
+        "id": "6a23900f-e409-4d92-8369-83a88bacc510",
+        "commands": [
+          {
+            "name": "adicionarModuloCurso",
+            "type": "UserScript",
+            "id": "24884336-ec0a-4392-bb99-ece62359ae4d",
+            "path": "99 - BACKEND/Scripts/Mídias/Curso/adicionarModuloCurso.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "b48b0cc0-9bf4-44f5-bebd-5bf11f078234",
+      "name": "Finalizar Ciclo de Curso",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Ciclo de Curso",
+        "id": "3722537e-8efd-4d6b-8bbe-6f80204f25c0",
+        "commands": [
+          {
+            "name": "finalizarCicloCurso",
+            "type": "UserScript",
+            "id": "dad6e76c-6adf-4bd2-b9a8-8e140894fa1f",
+            "path": "99 - BACKEND/Scripts/Mídias/Curso/finalizarCicloCurso.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "d52d061e-dbc8-48a2-8d4e-0882bc84c10b",
+      "name": "Finalizar Ciclo de Leitura (Livro)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Ciclo de Leitura (Livro)",
+        "id": "654e3585-7e66-4cd9-9c7d-06984a3d07fc",
+        "commands": [
+          {
+            "name": "finalizarCicloLeitura",
+            "type": "UserScript",
+            "id": "4a05124d-0318-4a83-9623-81eed2656a54",
+            "path": "99 - BACKEND/Scripts/Mídias/Livro/finalizarCicloLeitura.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "a346f1e0-1d07-4899-898c-c5258de0d674",
+      "name": "Finalizar Consumo de Curso",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo de Curso",
+        "id": "5a05174c-9abb-49a7-968c-8e92a3bcf447",
+        "commands": [
+          {
+            "name": "finalizarConsumoCurso",
+            "type": "UserScript",
+            "id": "faca5572-a440-479a-b0aa-6e76ed55c0ab",
+            "path": "99 - BACKEND/Scripts/Mídias/Curso/finalizarConsumoCurso.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "a8ab5388-a5a4-40e4-8355-9e032a4a7da1",
+      "name": "Reativar Aprendizado de Curso",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Reativar Aprendizado de Curso",
+        "id": "910be5c2-5057-49e5-ad49-9ede22c68c22",
+        "commands": [
+          {
+            "name": "reativarCurso",
+            "type": "UserScript",
+            "id": "552ba1e3-06cb-4863-89bc-e2f5929c771a",
+            "path": "99 - BACKEND/Scripts/Mídias/Curso/reativarCurso.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "80d40aab-f4a6-4844-a13d-2e25a7b35701",
+      "name": "Adicionar Análise Crítica",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Análise Crítica",
+        "id": "d5c37ff3-170d-4cf7-a1fa-6d9c344e3027",
+        "commands": [
+          {
+            "name": "adicionarAnaliseCritica",
+            "type": "UserScript",
+            "id": "a0c859e2-4422-465a-abd4-0d56e1741ff2",
+            "path": "99 - BACKEND/Scripts/AI/adicionarAnaliseCritica.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "617684d5-44f5-40a4-8e29-0b459055cde0",
+      "name": "Criar Artigo Atômico",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Artigo Atômico",
+        "id": "8740454f-6b6e-4d32-8d9b-45ceb2ea5e7e",
+        "commands": [
+          {
+            "name": "criarArtigoAtomico",
+            "type": "UserScript",
+            "id": "800d30ac-cd67-4f35-b28e-4f3f4d6c687b",
+            "path": "99 - BACKEND/Scripts/Mídias/Artigo/ArtigoAtomico/criarArtigoAtomico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "87a31a09-18df-4b4c-9529-2f504222ff5a",
+      "name": "Finalizar Consumo Artigo (Atômico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo Artigo (Atômico)",
+        "id": "de19b8f4-ad84-4db6-bd4d-8dfb1a2491ea",
+        "commands": [
+          {
+            "name": "finalizarConsumoArtigoAtomico",
+            "type": "UserScript",
+            "id": "9bcba42f-7e8e-4036-ae16-af80d3688365",
+            "path": "99 - BACKEND/Scripts/Mídias/Artigo/ArtigoAtomico/finalizarConsumoArtigoAtomico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "f9df07c8-b647-4cee-bb5c-7917e8b0c35a",
+      "name": "Iniciar Novo Ciclo Artigo (Atômico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo Artigo (Atômico)",
+        "id": "bcf86501-0231-4d51-be33-36b564344228",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloArtigoAtomico",
+            "type": "UserScript",
+            "id": "c4a33e86-fe54-4e74-819a-cc79aac40a1b",
+            "path": "99 - BACKEND/Scripts/Mídias/Artigo/ArtigoAtomico/iniciarNovoCicloArtigoAtomico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "693567e0-9319-43e8-a88a-97aaf546f810",
+      "name": "Criar Artigo Paginado",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Artigo Paginado",
+        "id": "2ba2c622-02e9-4383-8fec-6f26132b48b4",
+        "commands": [
+          {
+            "name": "criarArtigoPaginado",
+            "type": "UserScript",
+            "id": "29c16b81-61ca-47a8-9412-210fba9973ef",
+            "path": "99 - BACKEND/Scripts/Mídias/Artigo/ArtigoPaginado/criarArtigoPaginado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "e778b570-0b68-43ca-9c21-c6dbbc2ede01",
+      "name": "Finalizar Ciclo de Leitura (Artigo Paginado)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Ciclo de Leitura (Artigo Paginado)",
+        "id": "c17fba5b-26ed-447d-b097-88931b419bd2",
+        "commands": [
+          {
+            "name": "finalizarCicloLeituraArtigoPaginado",
+            "type": "UserScript",
+            "id": "c3a651d7-6f6a-468e-9a3f-bf240878b2f7",
+            "path": "99 - BACKEND/Scripts/Mídias/Artigo/ArtigoPaginado/finalizarCicloLeituraArtigoPaginado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "54b90cb3-7845-411b-b98c-184eddeb0c0d",
+      "name": "Iniciar Novo Ciclo de Leitura (Artigo Paginado)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo de Leitura (Artigo Paginado)",
+        "id": "efcb1582-ac38-40a2-9832-825f36ea85b0",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloLeituraArtigoPaginado",
+            "type": "UserScript",
+            "id": "d63eb6e5-331c-4126-bccc-82b6ce126cb5",
+            "path": "99 - BACKEND/Scripts/Mídias/Artigo/ArtigoPaginado/iniciarNovoCicloLeituraArtigoPaginado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "d1bdf2a1-618c-471d-abe8-9363d3d45e57",
+      "name": "Criar Nova Documentação",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Nova Documentação",
+        "id": "41a92fc4-4cb8-49a1-99d0-db42bba588ce",
+        "commands": [
+          {
+            "name": "criarDocumentacao",
+            "type": "UserScript",
+            "id": "2804c066-1643-4d22-af84-e2a87874835f",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentacao/criarDocumentacao.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "a13dc221-583e-4f86-ae11-0a8d30f94296",
+      "name": "Finalizar Ciclo de Leitura (Documentacao Paginado)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Ciclo de Leitura (Documentacao Paginado)",
+        "id": "43d486b8-251f-4b48-9db0-13730863fd5a",
+        "commands": [
+          {
+            "name": "finalizarCicloLeituraDocumentacaoPaginado",
+            "type": "UserScript",
+            "id": "23dd9705-7cec-41ee-906f-ad48079994b4",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentacao/finalizarCicloLeituraDocumentacaoPaginado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "53ef750d-ff8d-4ca9-b2af-c615d18dfeb6",
+      "name": "Iniciar Novo Ciclo de Leitura (Documentacao Paginado)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo de Leitura (Documentacao Paginado)",
+        "id": "97b23a08-6277-4147-b353-cd1c1a16476f",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloLeituraDocumentacaoPaginado",
+            "type": "UserScript",
+            "id": "f3518e27-0ad4-4dc1-91cb-5a16d6249275",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentacao/iniciarNovoCicloLeituraDocumentacaoPaginado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "01ad3b77-18f6-4121-a421-022d46ed29a8",
+      "name": "Adicionar Episódios a temporada (Série)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Episódios a temporada (Série)",
+        "id": "d65cd050-a8ce-4d7b-87bd-875924ff31cc",
+        "commands": [
+          {
+            "name": "adicionarEpisodioSerie",
+            "type": "UserScript",
+            "id": "54fcbcae-987a-4afa-85e4-c3c2a962562b",
+            "path": "99 - BACKEND/Scripts/Mídias/Serie/adicionarEpisodioSerie.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "4db3a540-9a79-4a3f-bf57-0e97ca8dad0d",
+      "name": "Finalizar Consumo de Série",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo de Série",
+        "id": "fed71ab7-f189-48cb-976e-0f4281c1ea92",
+        "commands": [
+          {
+            "name": "finalizarConsumoSerie",
+            "type": "UserScript",
+            "id": "1ab94cdc-b3aa-4862-b3c6-0147fca9d6fc",
+            "path": "99 - BACKEND/Scripts/Mídias/Serie/finalizarConsumoSerie.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "75ac9214-3fee-4f25-b234-c45528bd4082",
+      "name": "Reativar Série",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Reativar Série",
+        "id": "8661ef66-4651-436b-a0dc-8849c5adc361",
+        "commands": [
+          {
+            "name": "reativarSerie",
+            "type": "UserScript",
+            "id": "b5dfbdc8-9317-41ff-9ef4-f497e8081f9b",
+            "path": "99 - BACKEND/Scripts/Mídias/Serie/reativarSerie.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "945697ae-7f9b-4d3c-a8a1-ce08474348ee",
+      "name": "Iniciar Novo Ciclo (Série)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo (Série)",
+        "id": "be4b07fe-90e5-4ba9-804d-615d8c997b0d",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloSerie",
+            "type": "UserScript",
+            "id": "3ac1f65f-8dc7-4ce9-a792-fffe14120be6",
+            "path": "99 - BACKEND/Scripts/Mídias/Serie/iniciarNovoCicloSerie.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "9314f93f-d584-45c9-917f-07726d0abdf8",
+      "name": "Adicionar Temporada a Série",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Temporada a Série",
+        "id": "be75030a-a6f9-481a-9ab7-b736a3876dd4",
+        "commands": [
+          {
+            "name": "adicionarTemporadaSerie",
+            "type": "UserScript",
+            "id": "554269b7-d306-4b83-914a-f22f7bf1353e",
+            "path": "99 - BACKEND/Scripts/Mídias/Serie/adicionarTemporadaSerie.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "c7a6091d-935b-4feb-a1a8-9eb35ede7b8b",
+      "name": "Criar Documentario Serializado",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Documentario Serializado",
+        "id": "93f5cdcc-e41d-46be-9549-bb0f9b355240",
+        "commands": [
+          {
+            "name": "criarDocumentarioSerializado",
+            "type": "UserScript",
+            "id": "d904c0de-20b6-4f04-bccd-50799326d47b",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentario/DocumentarioSerializado/criarDocumentarioSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb6c2f58-b582-4fb4-9998-d958daf17ad9",
+      "name": "Adicionar Episódios a temporada (Documentário Serializado)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Episódios a temporada (Documentário Serializado)",
+        "id": "3b41c692-bca3-472e-9444-48fb3551507a",
+        "commands": [
+          {
+            "name": "adicionarEpisodioDocumentarioSerializado",
+            "type": "UserScript",
+            "id": "f33d9c33-df14-4c1b-b053-6113e0b7f8b7",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentario/DocumentarioSerializado/adicionarEpisodioDocumentarioSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "badf2076-6464-4a5b-bae3-7589885c64dc",
+      "name": "Adicionar Temporada a Documentário Serializado",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Temporada a Documentário Serializado",
+        "id": "c13536ce-4fef-46d8-8f9f-24be89a5ff08",
+        "commands": [
+          {
+            "name": "adicionarTemporadaDocumentarioSerializado",
+            "type": "UserScript",
+            "id": "e99e4cf9-488b-4d11-8159-cbede19f4c13",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentario/DocumentarioSerializado/adicionarTemporadaDocumentarioSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "8b63989f-1ced-4911-b719-97cb3d56ab5e",
+      "name": "Finalizar Consumo de Documentário Serializado",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo de Documentário Serializado",
+        "id": "04940fa4-8cde-4aa5-8cd0-5ec9c95f3035",
+        "commands": [
+          {
+            "name": "finalizarConsumoDocumentarioSerializado",
+            "type": "UserScript",
+            "id": "19376725-240e-4139-835f-5d5414b4c6fa",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentario/DocumentarioSerializado/finalizarConsumoDocumentarioSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "d349fb04-ddd1-4ce6-96ca-ae9e15291f6b",
+      "name": "Reativar Documentário Serializado",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Reativar Documentário Serializado",
+        "id": "83172bd1-a9f4-4771-a71c-2c924ee96a87",
+        "commands": [
+          {
+            "name": "reativarDocumentarioSerializado",
+            "type": "UserScript",
+            "id": "06c81b9d-14fa-4d79-8ea9-1fd945191131",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentario/DocumentarioSerializado/reativarDocumentarioSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "89da3d55-adf3-44a0-a8ae-bfd13aa57c8e",
+      "name": "Iniciar Novo Ciclo (Documentário Serializado)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo (Documentário Serializado)",
+        "id": "cfa80fc0-6eb2-4a70-a27f-26eca01bfa94",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloDocumentarioSerializado",
+            "type": "UserScript",
+            "id": "d2a41cc6-324b-455f-94ed-f97a016bceab",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentario/DocumentarioSerializado/iniciarNovoCicloDocumentarioSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "87ff4833-6074-46b6-b4d6-9e134f521f13",
+      "name": "Finalizar Consumo de Podcast Serializado",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo de Podcast Serializado",
+        "id": "b606947a-fa80-458c-bbc2-4c8175ecdbc5",
+        "commands": [
+          {
+            "name": "finalizarConsumoPodcastSerializado",
+            "type": "UserScript",
+            "id": "a750b00a-7a38-4836-b352-27b115073213",
+            "path": "99 - BACKEND/Scripts/Mídias/Podcast/PodcastSerializado/finalizarConsumoPodcastSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "77efdaec-3dc0-42d5-9001-c98594a57962",
+      "name": "Reativar Podcast Serializado",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Reativar Podcast Serializado",
+        "id": "fe154030-9612-4948-bf5d-d0ede93120ba",
+        "commands": [
+          {
+            "name": "reativarPodcastSerializado",
+            "type": "UserScript",
+            "id": "6e50ac4c-c9ee-4669-a243-b526a2f393cf",
+            "path": "99 - BACKEND/Scripts/Mídias/Podcast/PodcastSerializado/reativarPodcastSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "ccc4f3c1-f24d-4eda-a28b-4bcacaff5167",
+      "name": "Iniciar Novo Ciclo (Podcast Serializado)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo (Podcast Serializado)",
+        "id": "3981399f-dbea-4ae0-bd96-538ffefc203d",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloPodcastSerializado",
+            "type": "UserScript",
+            "id": "69699623-e977-4631-9845-d80ce7e4f710",
+            "path": "99 - BACKEND/Scripts/Mídias/Podcast/PodcastSerializado/iniciarNovoCicloPodcastSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "814fd2f7-1506-409b-be5b-5e4d22c9f03a",
+      "name": "Adicionar Temporada ao Podcast Serializado",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Temporada ao Podcast Serializado",
+        "id": "cdca722c-9346-4a0e-a87b-1d65972d8c8d",
+        "commands": [
+          {
+            "name": "adicionarTemporadaPodcastSerializado",
+            "type": "UserScript",
+            "id": "6560a167-37b6-4340-9423-40dcf1e32c94",
+            "path": "99 - BACKEND/Scripts/Mídias/Podcast/PodcastSerializado/adicionarTemporadaPodcastSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "1e4defd0-ecda-43f4-b405-145347f2f7c0",
+      "name": "Adicionar Episódios a temporada (Podcast Serializado)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Episódios a temporada (Podcast Serializado)",
+        "id": "e4dde763-5d2c-4dc1-993a-243af2eeaa8b",
+        "commands": [
+          {
+            "name": "adicionarEpisodioPodcastSerializado",
+            "type": "UserScript",
+            "id": "885f4f0a-5f2f-4a17-baa8-f803e5746244",
+            "path": "99 - BACKEND/Scripts/Mídias/Podcast/PodcastSerializado/adicionarEpisodioPodcastSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "49ec0d8b-c8de-47c9-91f6-6a316e6772dd",
+      "name": "Criar Podcast Serializado",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Podcast Serializado",
+        "id": "5b062133-59ae-4362-8865-16882d85b19d",
+        "commands": [
+          {
+            "name": "criarPodcastSerializado",
+            "type": "UserScript",
+            "id": "9dbab088-7fd0-41bc-bb25-960b8898cfc2",
+            "path": "99 - BACKEND/Scripts/Mídias/Podcast/PodcastSerializado/criarPodcastSerializado.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "86b97096-27d6-4304-95d6-e8667840a9a6",
+      "name": "Criar Documentario Unico",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Documentario Unico",
+        "id": "7f474d60-26f9-4f6c-b88a-9156121a3bbe",
+        "commands": [
+          {
+            "name": "criarDocumentarioUnico",
+            "type": "UserScript",
+            "id": "67d59042-9eae-49ad-a66c-417d62e3c8c6",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentario/DocumentarioAtomico/criarDocumentarioUnico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "1285e4c0-05d6-4c3a-b4aa-d4cbc90cb953",
+      "name": "Finalizar Consumo Documentário (Unico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo Documentário (Unico)",
+        "id": "3543f5de-cf07-4351-bf44-809ab1c796f9",
+        "commands": [
+          {
+            "name": "finalizarConsumoDocumentarioUnico",
+            "type": "UserScript",
+            "id": "f036e67a-e22c-4ef3-b6df-5ca80781fcd8",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentario/DocumentarioAtomico/finalizarConsumoDocumentarioUnico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "104b3520-6b56-4b35-af86-3d958fda5934",
+      "name": "Iniciar Novo Ciclo Documentário (Unico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo Documentário (Unico)",
+        "id": "b63f7f9f-c203-4413-88ad-87c939908838",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloDocumentarioUnico",
+            "type": "UserScript",
+            "id": "33bd6aca-f1f3-4b03-880e-2d6df148c8d3",
+            "path": "99 - BACKEND/Scripts/Mídias/Documentario/DocumentarioAtomico/iniciarNovoCicloDocumentarioUnico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "3631280a-d33d-4477-8c7e-79c7cf4c084e",
+      "name": "Finalizar Consumo Podcast (Unico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo Podcast (Unico)",
+        "id": "9f727b16-2592-4195-ba25-1c84f9b7270c",
+        "commands": [
+          {
+            "name": "finalizarConsumoPodcastUnico",
+            "type": "UserScript",
+            "id": "b72b7699-af34-410a-88b3-97ee4be437d1",
+            "path": "99 - BACKEND/Scripts/Mídias/Podcast/PodcastAtomico/finalizarConsumoPodcastUnico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc143f64-b803-4dcc-904f-3b48e4e29836",
+      "name": "Iniciar Novo Ciclo Podcast (Unico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo Podcast (Unico)",
+        "id": "928566c7-b040-452e-b367-3e96c6e02c31",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloPodcastUnico",
+            "type": "UserScript",
+            "id": "7f066cfb-dd77-4c01-bd2a-ca15437ef894",
+            "path": "99 - BACKEND/Scripts/Mídias/Podcast/PodcastAtomico/iniciarNovoCicloPodcastUnico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "85f270be-6b67-4e63-85a2-058f5fecfa50",
+      "name": "Criar Podcast Unico",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Podcast Unico",
+        "id": "9f9e4133-4666-40b2-986b-a9ce81da8b1b",
+        "commands": [
+          {
+            "name": "criarPodcastUnico",
+            "type": "UserScript",
+            "id": "e3bc47b2-432c-4ed2-b818-9bea7c1dee57",
+            "path": "99 - BACKEND/Scripts/Mídias/Podcast/PodcastAtomico/criarPodcastUnico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "38ba98f3-4d4a-4f1d-8ec0-d9a045714242",
+      "name": "Finalizar Consumo Vídeo (Unico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo Vídeo (Unico)",
+        "id": "e50fbbed-16e2-46d6-b4d1-1bacd8d7e409",
+        "commands": [
+          {
+            "name": "finalizarConsumoVideo",
+            "type": "UserScript",
+            "id": "c045c3cd-1b44-46b2-bbe4-2caaf92cd912",
+            "path": "99 - BACKEND/Scripts/Mídias/Video/finalizarConsumoVideo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "d428b892-6b25-4ccb-9e27-8f72cdcb7228",
+      "name": "Iniciar Novo Ciclo Vídeo (Unico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo Vídeo (Unico)",
+        "id": "b740a10b-2c1f-4c1f-92ab-3df1288c1c68",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloVideo",
+            "type": "UserScript",
+            "id": "0a6e9c8b-8a6a-4d43-b890-768675fe56fc",
+            "path": "99 - BACKEND/Scripts/Mídias/Video/iniciarNovoCicloVideo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "8efaa2d9-0989-4cb6-b1df-5cdecdfca737",
+      "name": "Finalizar Consumo Filme (Unico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo Filme (Unico)",
+        "id": "8fa8bc91-2ad2-495f-9883-45842d893a61",
+        "commands": [
+          {
+            "name": "finalizarConsumoFilme",
+            "type": "UserScript",
+            "id": "12efc76d-6303-42f9-92d1-6492857d340f",
+            "path": "99 - BACKEND/Scripts/Mídias/Filme/finalizarConsumoFilme.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "8d8ce5f7-30d6-47e0-91fa-24a50d2f130c",
+      "name": "Iniciar Novo Ciclo Filme (Unico)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo Filme (Unico)",
+        "id": "374789db-502e-4c7d-beee-211ab96dd086",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloFilme",
+            "type": "UserScript",
+            "id": "33df8b5c-384f-4c0b-ac15-d0bb9049ed03",
+            "path": "99 - BACKEND/Scripts/Mídias/Filme/iniciarNovoCicloFilme.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "3db91567-0569-4e3f-a507-825e46c94ce6",
+      "name": "Gerenciar Tags",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Gerenciar Tags",
+        "id": "8125a5b6-db85-40aa-af3a-5ae5a790dc9e",
+        "commands": [
+          {
+            "name": "gerenciarTaxonomia",
+            "type": "UserScript",
+            "id": "fd526b89-0804-4e7e-80f6-2ba8b353960a",
+            "path": "99 - BACKEND/Scripts/Utils/gerenciarTaxonomia.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "e4c9d4ca-aedd-4efe-803c-5e656f571b5c",
+      "name": "Adicionar Pensamento Critico",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Pensamento Critico",
+        "id": "e5d17c68-e1c9-4906-ae9d-aaff89631c73",
+        "commands": [
+          {
+            "name": "adicionarAnaliseCritica",
+            "type": "UserScript",
+            "id": "9a539d26-8fca-43b3-8847-77390e218c7f",
+            "path": "99 - BACKEND/Scripts/AI/adicionarAnaliseCritica.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "c6ab0120-3dae-45f7-babf-9e1bd52f6084",
+      "name": "Gerar Prompt de Análise de Video",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Gerar Prompt de Análise de Video",
+        "id": "f15fd5d6-a59f-414f-aabb-e375d7ae6604",
+        "commands": [
+          {
+            "name": "PromptAnaliseVideo",
+            "type": "UserScript",
+            "id": "e98a6c87-c8e9-4c22-b10b-60302ecd926a",
+            "path": "99 - BACKEND/Scripts/AI/PromptAnaliseVideo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "d35e3cf6-ddca-4c36-8d50-b67cf330299a",
+      "name": "Exportar Análise Pessoal",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Exportar Análise Pessoal",
+        "id": "cb379007-e60b-4750-8355-0d23ac4b36ce",
+        "commands": [
+          {
+            "name": "exportarAnalisePessoal",
+            "type": "UserScript",
+            "id": "1ea341b7-cf0a-494f-979d-9b1cd8244a65",
+            "path": "99 - BACKEND/Scripts/AI/exportarAnalisePessoal.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "f6e15736-c18c-4324-81bc-5dd90ea46211",
+      "name": "Criar Projeto",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "dd7c30cd-fc29-4e94-92ba-c7082dbdaf58",
+        "name": "Criar Projeto",
+        "commands": [
+          {
+            "name": "criarProjetoExecutivo",
+            "type": "UserScript",
+            "id": "80a2523d-9a38-4e84-9364-3541c5a21888",
+            "path": "99 - BACKEND/Scripts/Projeto/Projeto_executivo/criarProjetoExecutivo.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "d2499596-b34d-4e48-a1c2-24683627e98e",
+      "name": "Adicionar Fase ao Projeto",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Fase ao Projeto",
+        "id": "d4a7b76e-c278-4955-bf75-9c57ad7c4747",
+        "commands": [
+          {
+            "name": "adicionarFaseProjeto",
+            "type": "UserScript",
+            "id": "e4e73dec-160c-4ad1-912b-4cb9c6e5131d",
+            "path": "99 - BACKEND/Scripts/Projeto/Projeto_executivo/adicionarFaseProjeto.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "6fbef4c1-77c2-49d0-bcb0-592e8c648679",
+      "name": "Adicionar Tarefa ao Projeto",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Tarefa ao Projeto",
+        "id": "48cafefa-a7b3-4cf7-aea7-93af1d25c908",
+        "commands": [
+          {
+            "name": "adicionarTarefaProjeto",
+            "type": "UserScript",
+            "id": "9c65d7f0-97dd-4114-9ff4-f1e0e5da7ca6",
+            "path": "99 - BACKEND/Scripts/Projeto/Projeto_executivo/adicionarTarefaProjeto.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "a338dedf-4589-4964-ba23-32b8d0dbb66b",
+      "name": "Iniciar Projeto",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Projeto",
+        "id": "b73dd0b5-97b6-46b2-8a00-9e21251a6cdd",
+        "commands": [
+          {
+            "name": "iniciarProjeto",
+            "type": "UserScript",
+            "id": "84f9d3cf-dc8c-4cb0-94ce-60476e48eb07",
+            "path": "99 - BACKEND/Scripts/Views/Projeto/iniciarProjeto.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "a609e097-e5d0-4b37-80e9-a34e2f2524e4",
+      "name": "Pausar Projeto",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Pausar Projeto",
+        "id": "99818f5a-4fd2-482b-bb17-9cd7342ad447",
+        "commands": [
+          {
+            "name": "pausarProjeto",
+            "type": "UserScript",
+            "id": "8fc683d5-32a6-414b-adea-6f5ea1411ba0",
+            "path": "99 - BACKEND/Scripts/Views/Projeto/pausarProjeto.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "5d90e7ab-1bc1-438e-876b-0af8dc302e09",
+      "name": "Concluir Projeto",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Concluir Projeto",
+        "id": "c9e4e2c3-aa59-495f-bd32-157d9c56409a",
+        "commands": [
+          {
+            "name": "concluirProjeto",
+            "type": "UserScript",
+            "id": "93f8b342-b661-4db1-96c0-18dd3cb12e38",
+            "path": "99 - BACKEND/Scripts/Views/Projeto/concluirProjeto.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "8a80f302-ff2e-4496-bb46-2ae7dd2ee8af",
+      "name": "Definir Prioridade do Projeto",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Definir Prioridade do Projeto",
+        "id": "5cb6b339-2f35-4a5f-b341-563e41754124",
+        "commands": [
+          {
+            "name": "definirPrioridadeProjeto",
+            "type": "UserScript",
+            "id": "7174f145-5621-4b56-82a9-f15ba05f98bd",
+            "path": "99 - BACKEND/Scripts/Views/Projeto/definirPrioridadeProjeto.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "df978222-dda7-4f25-aa4f-72c513ae75ee",
+      "name": "Criar Novo Plano de Treino",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Novo Plano de Treino",
+        "id": "77a94ad2-2e46-493f-ac9a-ced4a7082a87",
+        "commands": [
+          {
+            "name": "criarPlanoDeTreino",
+            "type": "UserScript",
+            "id": "e1e3e6ff-929e-4b81-84b0-2e93978593e7",
+            "path": "99 - BACKEND/Scripts/Exercicios/criarPlanoDeTreino.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "fd432870-31fd-4ac4-b928-5fa5f60869a1",
+      "name": "Registrar Medidas Corporais",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Registrar Medidas Corporais",
+        "id": "7ef5785e-1d3f-4178-9d02-c4a20d4f7bf3",
+        "commands": [
+          {
+            "name": "registrarMedidasCorporais",
+            "type": "UserScript",
+            "id": "6a0885db-292c-4e2f-9d5e-4e76e85aa6d9",
+            "path": "99 - BACKEND/Scripts/Exercicios/registrarMedidasCorporais.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "8791e884-c9d3-4450-a2e2-cdb33eb3d1ca",
+      "name": "Criar Exercício",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Exercício",
+        "id": "0cf7685e-77e4-4723-920f-915ba52bac71",
+        "commands": [
+          {
+            "name": "criarExercicio",
+            "type": "UserScript",
+            "id": "daf0e4e6-fa0e-4fc0-bf22-4295a38c675d",
+            "path": "99 - BACKEND/Scripts/Exercicios/criarExercicio.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "66a79bdb-366e-4fb7-96f5-437ed88f7539",
+      "name": "Agendar Treinos",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Agendar Treinos",
+        "id": "f433390e-98bf-483b-937c-e546c036dce0",
+        "commands": [
+          {
+            "name": "agendarTreinos",
+            "type": "UserScript",
+            "id": "cc29c01f-5d71-4dd1-a189-8b6739be3d7a",
+            "path": "99 - BACKEND/Scripts/Exercicios/agendarTreinos.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "4547df33-3b6e-4714-89cb-aa94ac1da9a2",
+      "name": "Consultar Coach de Performance (Exercícios)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Consultar Coach de Performance (Exercícios)",
+        "id": "e50b5d2b-b953-40e3-95de-6e09c63046fd",
+        "commands": [
+          {
+            "name": "consultarCoachExercicio",
+            "type": "UserScript",
+            "id": "747b5a99-2c7b-4d72-833b-08e9f5199738",
+            "path": "99 - BACKEND/Scripts/Exercicios/consultarCoachExercicio.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "655acb19-c97a-43f2-9465-0c3aab852817",
+      "name": "Alternar Gráfico Volume Grupo Muscular (Exercícios)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Alternar Gráfico Volume Grupo Muscular (Exercícios)",
+        "id": "47df6d34-208d-4e72-a69b-1e0f51e0626b",
+        "commands": [
+          {
+            "name": "alternarGraficoVolumeGrupoMuscular",
+            "type": "UserScript",
+            "id": "0b34b6d3-fc6d-4df4-8751-cfe74db02af3",
+            "path": "99 - BACKEND/Scripts/Exercicios/alternarGraficoVolumeGrupoMuscular.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "2a9abf09-f31f-44be-9929-b8e84a6ca647",
+      "name": "Selecionar Exercicio para Grafico",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Selecionar Exercicio para Grafico",
+        "id": "99a0a92d-0cdf-47d9-ae2f-69c28076f84c",
+        "commands": [
+          {
+            "name": "selecionarExercicioParaGrafico",
+            "type": "UserScript",
+            "id": "d4391bf9-e61a-4d3e-850a-65eee5289b68",
+            "path": "99 - BACKEND/Scripts/Exercicios/selecionarExercicioParaGrafico.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "1d7de2f6-89a2-4365-a47f-bc496b3c3c12",
+      "name": "Processar & Finalizar Dia",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Processar & Finalizar Dia",
+        "id": "f252d991-0ab5-4b73-b70e-c6dc309f911d",
+        "commands": [
+          {
+            "name": "processarDia",
+            "type": "UserScript",
+            "id": "3abdcf2f-1833-422d-9acc-3655381cec76",
+            "path": "99 - BACKEND/Scripts/Utils/processarDia.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "1143fab0-d491-439b-83fe-10beef33b512",
+      "name": "Criar Novo Hábito",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Novo Hábito",
+        "id": "55c374d1-21eb-4932-81e8-264ac84a8976",
+        "commands": [
+          {
+            "name": "criarHabito",
+            "type": "UserScript",
+            "id": "01cd389c-1fc4-4f1a-b89b-9ca254189743",
+            "path": "99 - BACKEND/Scripts/Eventos/criarHabito.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "1189559a-4d83-4397-9ec4-1663eb6da282",
+      "name": "Criar Recompensa (Tarefas da Nota Atual)",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Recompensa (Tarefas da Nota Atual)",
+        "id": "a66d8b1d-504b-41eb-a0ae-e13157ee0d14",
+        "commands": [
+          {
+            "name": "criarRecompensa",
+            "type": "UserScript",
+            "id": "afce7e31-fe75-4cca-bf57-38943ff22f8e",
+            "path": "99 - BACKEND/Scripts/Eventos/criarRecompensa.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "3719f3b1-b765-4b60-876f-6a13e294c77e",
+      "name": "Registrar Conclusão de Hábito",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Registrar Conclusão de Hábito",
+        "id": "1d2151dd-17e7-4086-8a41-1686e05dceb0",
+        "commands": [
+          {
+            "name": "registrarConclusaoHabito",
+            "type": "UserScript",
+            "id": "25b4d01b-5aad-4c14-aeb8-1b9a406d6c03",
+            "path": "99 - BACKEND/Scripts/Eventos/registrarConclusaoHabito.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa6b5df7-d71c-4748-b27a-27c83ac8bf25",
+      "name": "Adicionar Tarefa à Mídia Universal",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Tarefa à Mídia Universal",
+        "id": "673547d0-7f8d-4200-9605-8edb86e6948d",
+        "commands": [
+          {
+            "name": "adicionarTarefaMidia",
+            "type": "UserScript",
+            "id": "eab16765-ea58-42f6-b18d-20c229df4a60",
+            "path": "99 - BACKEND/Scripts/Mídias/adicionarTarefaMidia.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "fbb4ebed-d656-493c-91f6-d6ee1f357416",
+      "name": "Criar Nota de Livro",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Nota de Livro",
+        "id": "5cdab231-9c7e-476e-bb3e-675290668626",
+        "commands": [
+          {
+            "name": "criarLivro",
+            "type": "UserScript",
+            "id": "d86b3c64-2a5b-4b78-8c15-5895751d59b9",
+            "path": "99 - BACKEND/Scripts/Mídias/Livro/criarLivro.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "57aae137-9add-44d5-9985-ed67d7e686df",
+      "name": "Filtrar Dashboard de Mídias",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Filtrar Dashboard de Mídias",
+        "id": "5cc27421-2202-4cc4-9e4e-20e8116e9c4e",
+        "commands": [
+          {
+            "name": "filtrarDashboardMidias",
+            "type": "UserScript",
+            "id": "ccae1c31-5c39-4666-a859-7b853168a464",
+            "path": "99 - BACKEND/Scripts/DashboardMidias/filtrarDashboardMidias.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "cd52f6aa-79ec-40e5-9bad-ca635635ba73",
+      "name": "Filtrar Ciclo Dashboard de Mídias",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Filtrar Ciclo Dashboard de Mídias",
+        "id": "15e46769-c4ab-4d4d-86dd-c9ffb70066d3",
+        "commands": [
+          {
+            "name": "filtrarDashboardCicloMidias",
+            "type": "UserScript",
+            "id": "33cf6e09-1537-4114-ab98-a152620d3b2d",
+            "path": "99 - BACKEND/Scripts/DashboardMidias/filtrarDashboardCicloMidias.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "f30839b9-5fd3-40e2-8bac-636889283776",
+      "name": "Filtrar Dashboard de Projetos",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Filtrar Dashboard de Projetos",
+        "id": "c8714e7d-4726-4869-96a6-5587fe075f68",
+        "commands": [
+          {
+            "name": "filtrarDashboardProjetos",
+            "type": "UserScript",
+            "id": "c7ebc329-3ce1-42f3-9735-a9736f4edd00",
+            "path": "99 - BACKEND/Scripts/DashboardProjetos/filtrarDashboardProjetos.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "1b69bac1-8878-41cc-a87d-468878a71648",
+      "name": "Filtrar Dashboard de Estudos",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Filtrar Dashboard de Estudos",
+        "id": "2390f761-dc8b-4309-a7f2-ce9b3451c08f",
+        "commands": [
+          {
+            "name": "filtrarDashboardEstudos",
+            "type": "UserScript",
+            "id": "2bc3e05e-c0ac-4a50-b706-73737ebf5faf",
+            "path": "99 - BACKEND/Scripts/DashboardEstudos/filtrarDashboardEstudos.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "779cd79c-5d8a-4b0f-aafd-4511c58f1bd4",
+      "name": "Iniciar Estudo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Estudo",
+        "id": "c7433093-8441-4369-bfe7-d325f943ba21",
+        "commands": [
+          {
+            "name": "iniciarEstudo",
+            "type": "UserScript",
+            "id": "bf76de49-aef6-48eb-a67b-0435fc0d9a3b",
+            "path": "99 - BACKEND/Scripts/Estudo/iniciarEstudo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a3fdc21-dce4-4b60-8762-99e2ab09eb2c",
+      "name": "Associar Midia ao Estudo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Associar Midia ao Estudo",
+        "id": "3744def6-5d75-41f4-af7f-af3877a22099",
+        "commands": [
+          {
+            "name": "associarMidiaAoEstudo",
+            "type": "UserScript",
+            "id": "cf115558-9dd3-44e5-b19f-570948cac0ce",
+            "path": "99 - BACKEND/Scripts/Estudo/associarMidiaAoEstudo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "0dd88f72-ba89-4c6c-a8a9-385a56a85e6e",
+      "name": "Associar Projeto ao Estudo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Associar Projeto ao Estudo",
+        "id": "2bf1dff3-fe7b-4d1e-9511-2a1a7590c302",
+        "commands": [
+          {
+            "name": "associarProjetoAoEstudo",
+            "type": "UserScript",
+            "id": "97dd3d5c-04c7-4ffe-8f22-babe4aba8bf5",
+            "path": "99 - BACKEND/Scripts/Estudo/associarProjetoAoEstudo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "a2c9f4bc-3d16-4b52-a68b-89d9b151428b",
+      "name": "Concluir Estudo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Concluir Estudo",
+        "id": "b881f629-0d53-403a-8542-c350d4cd344e",
+        "commands": [
+          {
+            "name": "concluirEstudo",
+            "type": "UserScript",
+            "id": "785ce26f-7885-4650-9107-c89fc19b890d",
+            "path": "99 - BACKEND/Scripts/Estudo/concluirEstudo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "832f9e01-0e39-42f0-852e-b126dd6c65fa",
+      "name": "Reativar Estudo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Reativar Estudo",
+        "id": "1bf0171b-6c5e-46cf-8cb6-4f8db638c270",
+        "commands": [
+          {
+            "name": "reativarEstudo",
+            "type": "UserScript",
+            "id": "5cb3dd62-caf0-4fd1-a24d-8332bd6d0003",
+            "path": "99 - BACKEND/Scripts/Estudo/reativarEstudo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "fc5d401b-7bcd-42fa-bdad-8f8471b2f6c2",
+      "name": "Filtrar Periodo Revisao",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Filtrar Periodo Revisao",
+        "id": "956233a2-b06b-4249-935e-3d30ecb51978",
+        "commands": [
+          {
+            "name": "filtrarPeriodoRevisao",
+            "type": "UserScript",
+            "id": "52269322-6fd8-4bdc-a4e8-a3e3976581d3",
+            "path": "99 - BACKEND/Scripts/DashboardRevisao/filtrarPeriodoRevisao.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "e0b7cf67-9ed4-4db6-a08d-96a98b5ed66b",
+      "name": "Criar Esboço de Projeto",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Esboço de Projeto",
+        "id": "7b6f62e5-4637-45ac-95fa-c39f633798fc",
+        "commands": [
+          {
+            "name": "criarProjetoEsboco",
+            "type": "UserScript",
+            "id": "218c9551-1906-44c2-aed1-41268aee1b4f",
+            "path": "99 - BACKEND/Scripts/Projeto/Projeto_esboco/criarProjetoEsboco.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "f4f3c2ba-fedf-423d-8247-45392812847d",
+      "name": "Renomear Projeto Executivo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Renomear Projeto Executivo",
+        "id": "a3061d25-391a-406a-8138-09b26b2da40c",
+        "commands": [
+          {
+            "name": "renomearProjetoExecutivo",
+            "type": "UserScript",
+            "id": "44e7483c-bbff-4aaa-8da3-3b87e3056040",
+            "path": "99 - BACKEND/Scripts/Projeto/Projeto_executivo/renomearProjetoExecutivo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "d51c7c14-6c99-4560-a154-14a2c839b47c",
+      "name": "Criar Jogo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Jogo",
+        "id": "dc9cc90e-a3d5-4b35-b641-30daca16cfe6",
+        "commands": [
+          {
+            "name": "criarJogo",
+            "type": "UserScript",
+            "id": "2dbae9c5-851f-4efa-bddf-5fc35316a4ae",
+            "path": "99 - BACKEND/Scripts/Mídias/Jogo/criarJogo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "75807ade-e053-4ff8-8604-a6746c90e16b",
+      "name": "Adicionar Missão ao jogo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Missão ao jogo",
+        "id": "3a00e541-e4d1-4c43-9af9-fe1b172cbffa",
+        "commands": [
+          {
+            "name": "adicionarMissaoJogo",
+            "type": "UserScript",
+            "id": "cf7e7557-23c4-4c0b-a680-70c76ccca75f",
+            "path": "99 - BACKEND/Scripts/Mídias/Jogo/adicionarMissaoJogo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "292de169-b119-48b9-9f77-91e20552571e",
+      "name": "Finalizar Consumo de Jogo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Finalizar Consumo de Jogo",
+        "id": "ebf5d612-0eb1-4a98-9841-1fb1f170e63f",
+        "commands": [
+          {
+            "name": "finalizarConsumoJogo",
+            "type": "UserScript",
+            "id": "fe479bb8-d098-4262-8809-40f92f8a917c",
+            "path": "99 - BACKEND/Scripts/Mídias/Jogo/finalizarConsumoJogo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "85d5215f-fc01-4a9e-af77-b60cde4fb375",
+      "name": "Iniciar Novo Ciclo de Jogo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Iniciar Novo Ciclo de Jogo",
+        "id": "5a7c0c91-55e7-437b-aacb-8461f9f41ba7",
+        "commands": [
+          {
+            "name": "iniciarNovoCicloJogo",
+            "type": "UserScript",
+            "id": "3cbee388-8b2e-4dff-9c2a-10008a6d29a3",
+            "path": "99 - BACKEND/Scripts/Mídias/Jogo/iniciarNovoCicloJogo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "eac1cda4-1043-4ab4-9060-dcc984e0beb6",
+      "name": "Reativar Jogo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Reativar Jogo",
+        "id": "2f6f3f11-7733-4fca-a341-c6e665d9fce8",
+        "commands": [
+          {
+            "name": "reativarJogo",
+            "type": "UserScript",
+            "id": "f2312ea6-ad67-4a65-b6f8-51c9acc5ffce",
+            "path": "99 - BACKEND/Scripts/Mídias/Jogo/reativarJogo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "90051215-7970-40a7-844d-c3bdb4e0e291",
+      "name": "Registrar Progresso Hábito",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Registrar Progresso Hábito",
+        "id": "5af640f3-9dbd-4574-880e-bc62df5f885c",
+        "commands": [
+          {
+            "name": "registrarProgressoHabito",
+            "type": "UserScript",
+            "id": "05d862b7-5528-4165-b454-feb6b74d33e7",
+            "path": "99 - BACKEND/Scripts/Eventos/registrarProgressoHabito.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "b47504e6-da11-486a-b5f8-343f1bbc9309",
+      "name": "Processar Task",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Processar Task",
+        "id": "d9d5fce7-10f3-436f-be0f-2123edecf453",
+        "commands": [
+          {
+            "name": "processarTask",
+            "type": "UserScript",
+            "id": "e054dc49-7394-4e9a-8e20-2bdb35846576",
+            "path": "99 - BACKEND/Scripts/Utils/processarTask.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "177427b2-601d-4df8-a896-aa56b5683bc5",
+      "name": "Criar Anotação",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar Anotação",
+        "id": "bd235ac4-a7d6-4169-ac62-c57e6480d63c",
+        "commands": [
+          {
+            "name": "criarAnotacao",
+            "type": "UserScript",
+            "id": "af7c86c7-ee6d-40e5-8f4b-b3aeac318a94",
+            "path": "99 - BACKEND/Scripts/Eventos/criarAnotacao.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "d02108f4-7456-459b-a11c-49d85d25237c",
+      "name": "Registrar Alimentação",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Registrar Alimentação",
+        "id": "afbea846-9bea-46a2-88fd-2be47dc8b8a1",
+        "commands": [
+          {
+            "name": "logAlimentacao",
+            "type": "UserScript",
+            "id": "6f4acc81-8df0-4577-8cf2-2f7c0e4e466f",
+            "path": "99 - BACKEND/Scripts/Eventos/logAlimentacao.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc58178e-b80c-4c90-8212-a9c4f4c95b16",
+      "name": "Registrar Emoção",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Registrar Emoção",
+        "id": "1b7f61fe-a5f5-4a5a-90e5-5f90c0e5c252",
+        "commands": [
+          {
+            "name": "logEmocao",
+            "type": "UserScript",
+            "id": "d094dec8-1803-4e87-a300-776a6b847dab",
+            "path": "99 - BACKEND/Scripts/Eventos/logEmocao.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "7f6bb57d-aa2b-4276-8a93-06d21bd49d75",
+      "name": "Registrar Aprendizado de Erro",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Registrar Aprendizado de Erro",
+        "id": "8976a45d-0c48-4852-9e64-61ebf5b15fcf",
+        "commands": [
+          {
+            "name": "logErro",
+            "type": "UserScript",
+            "id": "4df38519-53ce-496c-ae31-348b0eb52d72",
+            "path": "99 - BACKEND/Scripts/Eventos/logErro.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "b4f0670a-ed4d-46d1-89b4-e477f5433e5c",
+      "name": "Registrar Conquista",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Registrar Conquista",
+        "id": "fbbb0199-aba5-42e4-bee0-d0ea2ef2dc04",
+        "commands": [
+          {
+            "name": "logConquista",
+            "type": "UserScript",
+            "id": "56eb7f9c-9f56-4c45-8ca6-9f5ff0889515",
+            "path": "99 - BACKEND/Scripts/Eventos/logConquista.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "385bdbc1-3dd2-48b8-9f8c-1a2a7b32b75b",
+      "name": "Renomear Estudo",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Renomear Estudo",
+        "id": "28e0c25e-b421-4eb7-947f-1d18c5eb08c7",
+        "commands": [
+          {
+            "name": "renomearEstudo",
+            "type": "UserScript",
+            "id": "96e3c0e7-f53e-4c48-a7d6-a6f6e5241f84",
+            "path": "99 - BACKEND/Scripts/Estudo/renomearEstudo.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "649efdc5-1069-4490-904f-9c3a3a60ae44",
+      "name": "Registrar Aprimoramento",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Registrar Aprimoramento",
+        "id": "20849f18-3a18-4d4c-aaec-d747c1e258c0",
+        "commands": [
+          {
+            "name": "logAprimoramento",
+            "type": "UserScript",
+            "id": "001c1c83-3180-407b-839c-62babf4f61bf",
+            "path": "99 - BACKEND/Scripts/Daily/logAprimoramento.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "004703f8-1704-4d9c-8322-1d2cb86b1733",
+      "name": "Anexar Midia Galeria",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Anexar Midia Galeria",
+        "id": "0d4e2768-3793-4eda-9a97-5a7953516ad9",
+        "commands": [
+          {
+            "name": "anexarMidiaGaleria",
+            "type": "UserScript",
+            "id": "e9433ff9-9ffc-44b1-b698-d1a5cea48e6f",
+            "path": "99 - BACKEND/Scripts/Daily/anexarMidiaGaleria.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "660a6455-7551-4c5d-bc2b-53981e1f3798",
+      "name": "Criar/Editar HQ",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Criar/Editar HQ",
+        "id": "f896cc8b-f3b3-47a0-b7f2-e93ef51953fb",
+        "commands": [
+          {
+            "name": "criarEditarHq",
+            "type": "UserScript",
+            "id": "862efd08-94b3-4643-8838-4e5d4dcc1833",
+            "path": "99 - BACKEND/Scripts/Daily/criarEditarHq.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "1bd39ccd-7bff-4b32-99c9-2731699f2bfa",
+      "name": "Gravar Audio Diario",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Gravar Audio Diario",
+        "id": "6c427683-3406-45a4-bec1-817e3888e355",
+        "commands": [
+          {
+            "name": "gravarAudioDiario",
+            "type": "UserScript",
+            "id": "fee7a2bb-3f99-4705-8288-df4b0f2cc619",
+            "path": "99 - BACKEND/Scripts/Daily/gravarAudioDiario.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "e6b1005b-9b0b-48ca-b0f9-4fc2dcc90c89",
+      "name": "Filtrar Dashboard Treinos (Grupo)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Filtrar Dashboard Treinos (Grupo)",
+        "id": "91251872-6b00-43f9-a218-0ebd08b68310",
+        "commands": [
+          {
+            "name": "filtrarDashboardTreinos",
+            "type": "UserScript",
+            "id": "15c29c41-a566-458c-ac4c-1424c9b48f7a",
+            "path": "99 - BACKEND/Scripts/Exercicios/filtrarDashboardTreinos.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ac4aa92-0df4-494f-a92a-d13ef95167df",
+      "name": "Filtrar Dashboard Treinos (Exercicio)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Filtrar Dashboard Treinos (Exercicio)",
+        "id": "a1e3de4c-637d-4e5e-8a78-f00da62406bf",
+        "commands": [
+          {
+            "name": "filtrarDashboardTreinosExercicio",
+            "type": "UserScript",
+            "id": "de5d9d43-504f-4737-be8e-d7a8835a2b51",
+            "path": "99 - BACKEND/Scripts/Exercicios/filtrarDashboardTreinosExercicio.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "5f3f59f4-d92a-4e40-bc28-1aec331ade06",
+      "name": "Exportar Relatorio Revisao",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Exportar Relatorio Revisao",
+        "id": "75251755-66a7-41fb-911d-6d3cb383bc9f",
+        "commands": [
+          {
+            "name": "exportarRelatorioRevisao",
+            "type": "UserScript",
+            "id": "8d1f5304-865c-40ef-96d6-3dcadb39666f",
+            "path": "99 - BACKEND/Scripts/AI/exportarRelatorioRevisao.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "f0a83296-a161-4c10-b423-bfde596202a8",
+      "name": "Adicionar Capa",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Adicionar Capa",
+        "id": "942b3197-199d-486a-85ec-20cf564907d2",
+        "commands": [
+          {
+            "name": "adicionarCapa",
+            "type": "UserScript",
+            "id": "353ec502-383d-4df2-827b-9bd6f4ef24d2",
+            "path": "99 - BACKEND/Scripts/Utils/adicionarCapa.js",
+            "settings": {}
+          }
+        ]
+      }
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "99 - BACKEND/Templates",
+  "announceUpdates": true,
+  "version": "2.1.0",
+  "disableOnlineFeatures": false,
+  "enableRibbonIcon": false,
+  "showCaptureNotification": true,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true
+  },
+  "macros": [
+    {
+      "name": "Registrar Evento",
+      "id": "88cce933-a9b1-41e9-9a12-0857c805d588",
+      "commands": [
+        {
+          "name": "registrarEvento",
+          "type": "UserScript",
+          "id": "ea02cc6b-ed8c-4371-8a09-c5a8ee4dcbd5",
+          "path": "Backend Obsidian/Scripts/QuickAdd/registrarEvento.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Distração",
+      "id": "5001292a-0957-4dbf-abc2-42954183b4f5",
+      "commands": [
+        {
+          "name": "logDistracaoScript",
+          "type": "UserScript",
+          "id": "51151296-ad5c-4135-86c0-803656fa1332",
+          "path": "Backend Obsidian/Scripts/QuickAdd/logDistracaoScript.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Comida Boa",
+      "id": "9a9e8875-6074-422b-b239-5b9580d9a078",
+      "commands": [
+        {
+          "name": "logRefeicaoBoaScript",
+          "type": "UserScript",
+          "id": "94467670-2347-40bb-b64c-1afe1feb877d",
+          "path": "Backend Obsidian/Scripts/QuickAdd/logRefeicaoBoaScript.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Comida Ruim",
+      "id": "233c6117-47de-4dbb-9dea-20c238ce005e",
+      "commands": [
+        {
+          "name": "logRefeicaoRuimScript",
+          "type": "UserScript",
+          "id": "3f10302a-d3aa-45f9-9509-b488edfd964d",
+          "path": "Backend Obsidian/Scripts/QuickAdd/logRefeicaoRuimScript.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Agua",
+      "id": "06487aab-6689-4c99-8ec0-9a313ac8c30e",
+      "commands": [
+        {
+          "name": "logAguaScript",
+          "type": "UserScript",
+          "id": "a6da2d54-f36b-4a3f-914b-b0990eee5cc5",
+          "path": "Backend Obsidian/Scripts/QuickAdd/logAguaScript.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Fazer Rollover de Pendências",
+      "id": "94e7d6e7-38ca-48c9-b4db-9867d791a9ab",
+      "commands": [
+        {
+          "name": "rolloverPendencias",
+          "type": "UserScript",
+          "id": "f3d42738-b5bf-46bb-ac36-2c2afb0c9014",
+          "path": "Madrev Obsidian/Backend Obsidian/Scripts/QuickAdd/rolloverPendencias.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "ProcessarAprimoramentos",
+      "id": "1083e4c6-d5a4-40a1-87fb-1fa510ef8b31",
+      "commands": [
+        {
+          "name": "processarAprimoramentos",
+          "type": "UserScript",
+          "id": "6f3f5e93-d2c5-44e8-8866-a52beee90fd6",
+          "path": "Madrev Obsidian/Backend Obsidian/Scripts/QuickAdd/processarAprimoramentos.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "GerarDossieHQ",
+      "id": "f6107fca-df96-4045-bb57-df242ac8ccb1",
+      "commands": [
+        {
+          "name": "gerarDossieHQ",
+          "type": "UserScript",
+          "id": "9a431a4f-bb7b-4e49-9762-0f77d949b949",
+          "path": "Backend Obsidian/Scripts/QuickAdd/gerarDossieHQ.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "GerarRelatorioIA",
+      "id": "4207c520-17bf-4879-a6d6-f90cc532306e",
+      "commands": [
+        {
+          "name": "gerarRelatorioIA",
+          "type": "UserScript",
+          "id": "5287f8bc-9aec-4202-b1a2-6a54aa5d31dc",
+          "path": "Backend Obsidian/Scripts/QuickAdd/gerarRelatorioIA.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Criar Nota de Filme",
+      "id": "887a2b44-20bb-4709-b58c-a8941e83a7f8",
+      "commands": [
+        {
+          "name": "criarFilme",
+          "type": "UserScript",
+          "id": "cc14a859-b042-43a3-8f91-295fed41fd18",
+          "path": "Backend Obsidian/Scripts/QuickAdd/criarFilme.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Criar Nota de Livro",
+      "id": "269d217d-3da3-4404-bc16-29ff6bb72c0f",
+      "commands": [
+        {
+          "name": "criarLivro",
+          "type": "UserScript",
+          "id": "3241af4a-b65b-4100-8cf4-e1c031d93965",
+          "path": "Backend Obsidian/Scripts/QuickAdd/criarLivro.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "AdicionarTemporada",
+      "id": "d14d3585-53b6-4cf7-94ac-f9e8858866f2",
+      "commands": [
+        {
+          "name": "adicionarTemporada",
+          "type": "UserScript",
+          "id": "b6e0a5e6-a004-4b49-bc34-4289c6d14452",
+          "path": "Madrev Obsidian/Backend Obsidian/Scripts/QuickAdd/adicionarTemporada.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Criar Nota de Artigo",
+      "id": "1c4ea7f3-39ca-4528-83e0-f88967c6a18e",
+      "commands": [
+        {
+          "name": "criarArtigo",
+          "type": "UserScript",
+          "id": "6d1eaf72-c4b5-43a2-a5fa-75071ac87dec",
+          "path": "Backend Obsidian/Scripts/QuickAdd/criarArtigo.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Criar Nota de Documentário",
+      "id": "2ef8c993-fb48-46bf-8b8a-6e754d08db36",
+      "commands": [
+        {
+          "name": "criarDocumentario",
+          "type": "UserScript",
+          "id": "47e159f5-5e2d-4b26-8e30-4eb83e048167",
+          "path": "Backend Obsidian/Scripts/QuickAdd/criarDocumentario.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Criar Nota de Vídeo",
+      "id": "23dc94e7-75f4-40d6-98f9-931e33237a20",
+      "commands": [
+        {
+          "name": "criarVideo",
+          "type": "UserScript",
+          "id": "222adaad-5265-49f5-8eaf-6bec214d7f79",
+          "path": "Backend Obsidian/Scripts/QuickAdd/criarVideo.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Criar Midia Hub",
+      "id": "f7e8ff5b-a59b-499b-835a-3b8c8a8e1e16",
+      "commands": [
+        {
+          "name": "criarMidia",
+          "type": "UserScript",
+          "id": "6ad42c23-4201-4107-ab16-961a483b8e63",
+          "path": "Madrev Obsidian/Backend Obsidian/Scripts/QuickAdd/criarMidia.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Novo Estudo",
+      "id": "6701c0ee-b9c4-4e5b-8078-da416718beec",
+      "commands": [
+        {
+          "name": "criarEstudo",
+          "type": "UserScript",
+          "id": "54618d33-1444-489f-9a84-59523523881e",
+          "path": "Backend Obsidian/Scripts/QuickAdd/criarEstudo.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Novo Estudo Simples",
+      "id": "9004ce1a-4655-4396-a392-726f0cd73fae",
+      "commands": [
+        {
+          "name": "criarEstudoSimples",
+          "type": "UserScript",
+          "id": "0e2048d2-701c-43d4-a445-9b914d04a0eb",
+          "path": "Backend Obsidian/Scripts/QuickAdd/criarEstudoSimples.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Criar Nota de Série",
+      "id": "d59c4952-401c-4b6e-933d-9a3d10a8ae6c",
+      "commands": [
+        {
+          "name": "criarSerie",
+          "type": "UserScript",
+          "id": "5b5dc9f3-aaab-45b0-ae53-695dbc50a4ee",
+          "path": "Backend Obsidian/Scripts/QuickAdd/criarSerie.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Criar Missão",
+      "id": "dd7c30cd-fc29-4e94-92ba-c7082dbdaf58",
+      "commands": [
+        {
+          "name": "criarIdeiaMissao",
+          "type": "UserScript",
+          "id": "a14b6813-cdf6-4cf0-92d0-fb26777b580f",
+          "path": "Backend Obsidian/Scripts/QuickAdd/criarIdeiaMissao.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Felicidade",
+      "id": "32f471df-8ee6-473c-8d51-006512c94a16",
+      "commands": [
+        {
+          "name": "logFelicidade",
+          "type": "UserScript",
+          "id": "0ed0333a-7c97-4f70-83b6-84ae09cc3d13",
+          "path": "Backend Obsidian/Scripts/QuickAdd/logFelicidade.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Tristeza",
+      "id": "4c6eac41-e1d1-4bcf-b6b4-ea7833bd2a9e",
+      "commands": [
+        {
+          "name": "logTristeza",
+          "type": "UserScript",
+          "id": "b4a1bc53-78be-416f-988a-d645a248bed9",
+          "path": "Backend Obsidian/Scripts/QuickAdd/logTristeza.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Estresse/Ansiedade",
+      "id": "ca7c2db2-3294-4d81-add0-b22b3e2726ab",
+      "commands": [
+        {
+          "name": "logEstresse",
+          "type": "UserScript",
+          "id": "99b7bf22-7e59-42c2-919e-e8070a92de73",
+          "path": "Backend Obsidian/Scripts/QuickAdd/logEstresse.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Fazer Depois",
+      "id": "dfe13dd3-76c4-441a-9afe-a8a193c07150",
+      "commands": [
+        {
+          "name": "logFazerDepois",
+          "type": "UserScript",
+          "id": "69c84a79-dabe-413a-b7a6-61e71f5f9fc9",
+          "path": "Backend Obsidian/Scripts/QuickAdd/logFazerDepois.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ]
+}

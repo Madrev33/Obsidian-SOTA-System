@@ -1,0 +1,2 @@
+#video_categoria Tutorial
+#artigo_categoria Tutorial

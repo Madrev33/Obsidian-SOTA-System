@@ -1,0 +1,2 @@
+#filme_categoria Comédia
+#serie_categoria Comédia

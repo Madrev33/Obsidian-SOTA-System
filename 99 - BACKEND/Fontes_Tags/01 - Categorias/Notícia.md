@@ -1,0 +1,2 @@
+#artigo_categoria Notícia
+#video_categoria Notícia

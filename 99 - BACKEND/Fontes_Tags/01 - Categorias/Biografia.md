@@ -1,0 +1,3 @@
+#livro_categoria Biografia
+#filme_categoria Biografia
+#documentario_categoria Biografia

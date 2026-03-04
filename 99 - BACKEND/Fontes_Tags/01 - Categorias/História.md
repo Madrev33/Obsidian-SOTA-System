@@ -1,0 +1,3 @@
+#artigo_categoria História
+#livro_categoria História
+#documentario_categoria História

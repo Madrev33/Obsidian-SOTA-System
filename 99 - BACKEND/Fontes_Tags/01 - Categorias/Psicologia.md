@@ -1,0 +1,4 @@
+#artigo_categoria Psicologia
+#livro_categoria Psicologia
+#documentario_categoria Psicologia
+#curso_categoria Psicologia

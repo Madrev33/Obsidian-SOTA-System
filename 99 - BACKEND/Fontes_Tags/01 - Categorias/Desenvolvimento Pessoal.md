@@ -1,0 +1,4 @@
+#artigo_categoria Desenvolvimento Pessoal
+#livro_categoria Desenvolvimento Pessoal
+#video_categoria Desenvolvimento Pessoal
+#curso_categoria Desenvolvimento Pessoal

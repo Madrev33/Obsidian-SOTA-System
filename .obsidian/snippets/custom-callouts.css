@@ -1,0 +1,15 @@
+/* Estilização global para TODOS os callouts */
+.callout {
+    --callout-color: #10101060 !important; /* RGB de #c8c8c8 para detalhes/bordas */
+    background-color: #10101060 !important; /* Fundo cinza escuro */
+}
+
+/* Ícone do callout */
+.callout .callout-icon {
+    color: #c8c8c8 !important; /* Ícone em cinza claro */
+}
+
+/* Remove efeitos de blend que podem interferir */
+.callout {
+    --callout-blend-mode: normal;
+}

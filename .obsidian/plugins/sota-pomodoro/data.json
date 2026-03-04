@@ -1,0 +1,11 @@
+{
+  "workLen": 60,
+  "breakLen": 10,
+  "useStatusBarTimer": false,
+  "notificationSound": true,
+  "customSound": "",
+  "useSystemNotification": false,
+  "lowFps": true,
+  "tryhardMode": false,
+  "migration_v1_done": true
+}
