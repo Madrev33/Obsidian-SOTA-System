@@ -1,0 +1,145 @@
+/* SOTA - Arquivo de Estilo Unificado e Definitivo (v3.0) */
+
+/* -- VARIÁVEIS GLOBAIS DO PLUGIN -- */
+.theme-light,
+.theme-dark {
+    --pomodoro-timer-elapsed-color: var(--color-green);
+    --pomodoro-timer-color: var(--text-faint);
+    --pomodoro-timer-text-color: var(--text-normal);
+    --pomodoro-timer-dot-color: var(--color-red);
+}
+
+.status-bar-item.plugin-pomodoro-timer {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+/* --- ESTILOS GERAIS PARA ITENS DE TAREFA (CORREÇÃO #2) --- */
+/* Esta regra agora se aplica a TODOS os itens de tarefa, na lista e no foco. */
+.pomodoro-tasks-item {
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid var(--background-modifier-border);
+    display: flex; /* Garante o layout horizontal */
+    justify-content: space-between; /* Empurra o texto e o progresso para lados opostos */
+    align-items: center; /* <<< A CORREÇÃO MÁGICA: Alinha tudo verticalmente no centro */
+    width: 100%;
+}
+
+.pomodoro-tasks-item:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.pomodoro-tasks-item.is-active {
+    background-color: var(--background-secondary);
+    border-left: 3px solid var(--interactive-accent);
+    padding-left: calc(1rem - 3px); /* Ajusta o padding para compensar a borda */
+}
+
+/* Contêiner para o ícone de status e o texto da tarefa */
+.pomodoro-tasks-name {
+    display: flex;
+    align-items: center; /* Alinha o ícone e o texto verticalmente */
+    gap: 0.5rem; /* Espaço entre o ícone e o texto */
+    flex: 1; /* Permite que o nome da tarefa cresça e ocupe o espaço */
+    overflow: hidden; /* Evita que o texto vaze */
+    flex-direction: row;
+}
+
+/* O texto da tarefa em si */
+.pomodoro-tasks-item-desc {
+    white-space: nowrap; /* Impede que o texto quebre linha */
+    overflow: hidden;
+    text-overflow: ellipsis; /* Adiciona "..." se o texto for muito longo */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.pomodoro-tasks-item-desc p {
+    margin: 0; /* Remove margens de parágrafo padrão que podem desalinhlar */
+    padding: 0;
+}
+
+.pomodoro-tasks-progress {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+/* --- ESTILO ESPECÍFICO PARA O "FOCO ATUAL" (CORREÇÃO #1) --- */
+.pomodoro-focus-task-content {
+    padding: 0.5rem 0.8rem;
+    border-radius: var(--radius-m);
+    border: 1px solid var(--background-modifier-border);
+    background-color: var(--background-secondary);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.pomodoro-task-counter {
+    background-color: var(--background-modifier-hover);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.75em;
+    white-space: nowrap;
+}
+/* SOTA - CORREÇÃO DEFINITIVA PARA O PARÁGRAFO FANTASMA */
+/* Alvo: O parágrafo gerado pelo MarkdownRenderer DENTRO do nosso componente de texto da tarefa. */
+.pomodoro-tasks-item-desc p {
+    display: inline; /* <-- A BALA DE PRATA */
+    margin: 0; /* Remove margens que podem causar desalinhamento */
+    padding: 0; /* Garante que não haja espaçamento extra */
+}
+
+/* --- SOTA: Estilos para o Slider no Modal de Feedback --- */
+.sota-feedback-modal .sota-slider-value-display {
+    min-width: 2em;
+    text-align: right;
+    font-weight: bold;
+    color: var(--text-accent);
+}
+
+/* --- SOTA: Estilos de Recompensa v8 (Posicionamento Absoluto) --- */
+
+.pomodoro-timer-view .recompensa-item {
+    position: relative; /* FUNDAMENTAL: Cria o contexto de posicionamento */
+    padding: 12px;
+    padding-right: 150px; /* Adiciona espaço à direita para o bloco de progresso não sobrepor o nome */
+    margin: 8px 0;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    min-height: 50px; /* Garante altura mínima para acomodar o conteúdo */
+    display: flex; /* Apenas para alinhar o nome verticalmente */
+    align-items: center;
+}
+
+.pomodoro-timer-view .recompensa-nome {
+    font-size: 0.9em;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.pomodoro-timer-view .recompensa-progresso-container {
+    position: absolute; /* FUNDAMENTAL: Remove do fluxo normal do documento */
+    top: 50%; /* Centraliza verticalmente */
+    right: 12px; /* Distância da borda direita */
+    transform: translateY(-50%); /* Ajuste fino para centralização vertical perfeita */
+    
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.pomodoro-timer-view .recompensa-progresso-texto {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+.pomodoro-timer-view .recompensa-item .sota-button {
+    padding: 6px 12px;
+    font-size: 0.8em;
+}

@@ -1,11 +1,21 @@
 {
   "workLen": 60,
-  "breakLen": 10,
+  "breakLen": 20,
   "useStatusBarTimer": false,
   "notificationSound": true,
   "customSound": "",
   "useSystemNotification": false,
-  "lowFps": true,
+  "lowFps": false,
   "tryhardMode": false,
+  "autostart": false,
+  "showTaskProgress": true,
+  "enableTaskTracking": true,
+  "logFile": "DAILY",
+  "logFocused": false,
+  "logPath": "99 - BACKEND/Logs/Pomodoros_Log.md",
+  "logLevel": "ALL",
+  "logTemplate": "",
+  "logFormat": "VERBOSE",
+  "taskFormat": "TASKS",
   "migration_v1_done": true
 }

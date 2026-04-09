@@ -1,31 +1,29 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Open_Source-success?style=for-the-badge" alt="Open Source">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License">
-  <img src="https://img.shields.io/badge/Obsidian-v1.4+-blue?style=for-the-badge" alt="Obsidian Version">
-  <img src="https://img.shields.io/badge/Platform-Windows_|_Mac_|_Linux-lightgrey?style=for-the-badge" alt="Platform">
-  
-  <h1>Obsidian SYSTEM</h1>
-  <p><b>Projeto criado para me ajudar na Transcendencia.</b></p>
-  <p>Um sistema de acompanhamento fisiológico, produtividade e integração com Inteligência Artificial no Obsidian.</p>
-</div>
+# Obsidian SYSTEM
+
+## ⚠️ Aviso
+
+Não uso mais esse sistema.
+
+Esse projeto no Obsidian foi uma grande **procrastinação produtiva** da minha parte. Aprendi muito sobre lógica de programação, scripts e organização, mas foram 8 meses de auto-sabotamento criando esse projeto.
+
+Ainda uso a mesma **estrutura de pastas**, mas todos os scripts, dashboards e o pomodoro que modifiquei **não são mais usados**.
+
+Quando eu começar a treinar vou usar somente o sistema de treino que criei (disponível em `04 - Corpo & Movimento`) e vou adaptar o plugin do pomodoro para ser um plugin de treino somente.
 
 ---
 
-### Features
-Veja os features com mais clareza nesse link da Landing Page: [Landing Page](https://sotasystem.netlify.app/)
+## Pomodoro Plugin
 
-Não to afim de escrever um README agora. NEM COM AI🐱‍👤
+Todo o plugin do pomodoro está em:
 
----
+```
+.obsidian\plugins\sota-pomodoro
+```
 
-
-## ⚡ Junte-se a Comunidade (Em Construção)
-Se você quer se tornar um Renascentista Moderno e se juntar com pessoas fora da média:
-- **Canal YouTube:** [Lazarus Protocol](https://www.youtube.com/@LazarusProto) 
-- **Comunidade Telegram:** [Lazarus Protocol](https://t.me/lazarusproto/1)
+Peguei um plugin como base para modificar. Créditos ao criador original:
+- [obsidian-pomodoro-timer](https://github.com/eatgrass/obsidian-pomodoro-timer) por **eatgrass**
 
 ---
 
 ## 📄 Licença
 Este projeto é licenciado sob a **[MIT License](LICENSE)**.
-Você está livre para usar, estudar, modificar e distribuir o System desde que seja atribuído o devido crédito ao autor original de sua arquitetura.
